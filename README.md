@@ -1,3 +1,6 @@
+this is the output when hit Load balancer URL my target EC2 instance is in private subnet
+![assignment06_10_2024](https://github.com/user-attachments/assets/04105a5e-1804-47db-9399-44b3eb6b8c44)
+
 # sample-node-api  
 A sample node js api for finding cars and accounts for a dealership,its used here to demonstrate the steps to extend API/ML with your own rest api.     
 
